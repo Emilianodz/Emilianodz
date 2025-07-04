@@ -8,16 +8,30 @@ I'm a **Microbiologist turned Software Developer**, passionate about **Bioinform
 
 ### 🔧 **Tech Stack**
 
-#### Programming Languages:
+#### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) *(learning)*
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### Frameworks & Tools:
+#### 🛠️ Frameworks & Tools
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white) *(exploring)*
+
+#### 🧠 AI & Data
+- Experience integrating **AI tools** (e.g., OpenAI API, CrewAI, LangChain, LlamaIndex) into backend systems.
+- Building and optimizing pipelines for **data analytics** and **bioinformatics** workflows.
+
+#### 🐧 Operating System
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) *(daily driver)*
+
+---
 
 #### Databases:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -29,11 +43,7 @@ I'm a **Microbiologist turned Software Developer**, passionate about **Bioinform
 
 ### 🌟 **Featured Projects**
 
-- 🔬 **[Bioinformatics Pipeline](#)** - An efficient workflow to analyze genomic data using Python & Rust.
-- 📈 **[Data Analysis Tool](#)** - Automated data analysis and visualization platform for scientific research.
-- 🤖 **[CrewAI Assistant](#)** - Multi-agent intelligent system for enhanced API interaction and management.
 
-*(Replace "#" with actual links to your project repositories.)*
 
 ---
 
